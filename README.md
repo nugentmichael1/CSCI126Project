@@ -21,3 +21,5 @@ CSCI126ProjectItemDescriptions -> Items
 
 
 Use remaining queries of SQL file to test the database.
+
+There was an issue where the importation of CSCI126ProjectRealms.csv -> Realms on MySQL workbench caused a crash.  SQLiteStudio had no issues.
