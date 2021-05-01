@@ -22,14 +22,16 @@ SELECT items.item_description as "Product",
     GROUP BY recipes.item_id;
     
 /*Aggregate - Compares Cost of item for single realm vs average cost across all realms*/
-select A.Item_ID, A.Realm_ID, A.Price as Price, avg(B.Price) as Average_Price
+SELECT A.Item_ID, A.Realm_ID, A.Price as Price, avg(B.Price) as Average_Price
 FROM market as A
-CROSS JOIN market AS B where A.Item_ID = 2303
+CROSS JOIN market AS B 
+WHERE A.Item_ID = 2303 
+AND a.item_id=b.item_id
 GROUP BY
     A.Item_ID,
     A.Price
 HAVING A.Price <= avg(B.Price)
-ORDER BY A.Realm_ID;
+ORDER BY A.Realm_ID
 
 
 /*Insert - 2 insertion queries: first adds a new realm, and 2nd adds a new market list with that realm as
