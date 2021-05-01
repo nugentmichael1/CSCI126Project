@@ -1,0 +1,1001 @@
+id,name_enus,buyfromvendor,selltovendor
+2302,Handstitched Leather Boots,291,58
+2303,Handstitched Leather Pants,660,132
+2304,Light Armor Kit,60,15
+2307,Fine Leather Boots,2704,540
+2308,Fine Leather Cloak,1755,351
+2309,Embossed Leather Boots,1761,352
+2310,Embossed Leather Cloak,1322,264
+2311,White Leather Jerkin,1772,354
+2312,Fine Leather Gloves,1196,239
+2313,Medium Armor Kit,800,200
+2314,Toughened Leather Armor,7949,1589
+2315,Dark Leather Boots,2989,597
+2316,Dark Leather Cloak,4012,802
+2317,Dark Leather Tunic,4024,804
+2318,Light Leather,60,15
+2319,Medium Leather,200,50
+2320,Coarse Thread,10,2
+2321,Fine Thread,100,25
+2324,Bleach,25,6
+2325,Black Dye,1000,250
+2326,Ivy-Weave Bracers,66,13
+2327,Sturdy Leather Bracers,256,51
+2361,Battleworn Hammer,23,4
+2362,Worn Wooden Shield,11,2
+2364,Woven Vest,518,103
+2366,Woven Pants,522,104
+2367,Woven Boots,392,78
+2369,Woven Gloves,265,53
+2370,Battered Leather Harness,529,105
+2371,Battered Leather Belt,267,53
+2372,Battered Leather Pants,482,96
+2373,Battered Leather Boots,362,72
+2374,Battered Leather Bracers,244,48
+2375,Battered Leather Gloves,245,49
+2376,Worn Heater Shield,448,89
+2378,Skeleton Finger,0,0
+2379,Tarnished Chain Vest,89,17
+2380,Tarnished Chain Belt,45,9
+2381,Tarnished Chain Leggings,90,18
+2382,The Embalmer's Heart,0,0
+2383,Tarnished Chain Boots,67,13
+2384,Tarnished Chain Bracers,45,9
+2385,Tarnished Chain Gloves,45,9
+2386,Rusted Chain Vest,91,18
+2387,Rusted Chain Belt,46,9
+2388,Rusted Chain Leggings,92,18
+2389,Rusted Chain Boots,69,13
+2390,Rusted Chain Bracers,46,9
+2391,Rusted Chain Gloves,46,9
+2392,Light Mail Armor,482,96
+2393,Light Mail Belt,243,48
+2394,Light Mail Leggings,486,97
+2395,Light Mail Boots,375,75
+2396,Light Mail Bracers,253,50
+2397,Light Mail Gloves,254,50
+2398,Light Chain Armor,507,101
+2399,Light Chain Belt,255,51
+2400,Light Chain Leggings,510,102
+2401,Light Chain Boots,383,76
+2402,Light Chain Bracers,258,51
+2403,Light Chain Gloves,259,51
+2406,Pattern: Fine Leather Boots,100,25
+2407,Pattern: White Leather Jerkin,650,162
+2408,Pattern: Fine Leather Gloves,500,125
+2409,Pattern: Dark Leather Tunic,1400,350
+2411,Black Stallion Bridle,10000,2500
+2414,Pinto Bridle,10000,2500
+2417,Augmented Chain Vest,132412,26482
+2418,Augmented Chain Leggings,132904,26580
+2419,Augmented Chain Belt,67079,13415
+2420,Augmented Chain Boots,100216,20043
+2421,Augmented Chain Bracers,67568,13513
+2422,Augmented Chain Gloves,67816,13563
+2423,Brigandine Vest,1177039,235407
+2424,Brigandine Belt,593978,118795
+2425,Brigandine Leggings,1185490,237098
+2426,Brigandine Boots,890630,178126
+2427,Brigandine Bracers,557596,111519
+2428,Brigandine Gloves,559692,111938
+2429,Russet Vest,128485,25697
+2431,Russet Pants,129456,25891
+2432,Russet Boots,97276,19455
+2434,Russet Gloves,65841,13168
+2435,Embroidered Armor,1142775,228555
+2437,Embroidered Pants,1151341,230268
+2438,Embroidered Boots,865067,173013
+2440,Embroidered Gloves,585363,117072
+2442,Reinforced Targe,6564,1312
+2445,Large Metal Shield,4954,990
+2446,Kite Shield,13253,2650
+2447,Peacebloom,40,10
+2448,Heavy Pavise,117009,23401
+2449,Earthroot,80,20
+2450,Briarthorn,100,25
+2451,Crested Heater Shield,1029159,205831
+2452,Swiftthistle,60,15
+2453,Bruiseweed,100,25
+2454,Elixir of Lion's Strength,80,20
+2455,Minor Mana Potion,40,10
+2456,Minor Rejuvenation Potion,60,15
+2457,Elixir of Minor Agility,60,15
+2458,Elixir of Minor Fortitude,60,15
+2459,Swiftness Potion,100,25
+2460,Elixir of Tongues,299500,74875
+2463,Studded Doublet,138841,27768
+2464,Studded Belt,70065,14013
+2465,Studded Pants,126488,25297
+2466,Skullsplitter Fetish,0,0
+2467,Studded Boots,95423,19084
+2468,Studded Bracers,64348,12869
+2469,Studded Gloves,64589,12917
+2470,Reinforced Leather Vest,1121243,224248
+2471,Reinforced Leather Belt,565979,113195
+2472,Reinforced Leather Pants,1129810,225962
+2473,Reinforced Leather Boots,848863,169772
+2474,Reinforced Leather Bracers,572382,114476
+2475,Reinforced Leather Gloves,574536,114907
+2476,Chilled Basilisk Haunch,0,0
+2477,Ravager's Skull,0,0
+2479,Broad Axe,108,21
+2480,Large Club,72,14
+2488,Gladius,536,107
+2489,Two-Handed Sword,343,68
+2490,Tomahawk,540,108
+2491,Large Axe,484,96
+2492,Cudgel,285,57
+2493,Wooden Mallet,701,140
+2494,Stiletto,402,80
+2495,Walking Stick,505,101
+2504,Worn Shortbow,49,9
+2505,Polished Shortbow,100,20
+2506,Hornwood Recurve Bow,475,95
+2507,Laminated Recurve Bow,2920,584
+2508,Old Blunderbuss,46,9
+2509,Ornate Blunderbuss,691,138
+2510,Solid Blunderbuss,69,13
+2511,Hunter's Boomstick,2207,441
+2512,Rough Arrow,10,0
+2515,Sharp Arrow,50,0
+2516,Light Shot,10,0
+2519,Heavy Shot,50,0
+2520,Broadsword,182347,36469
+2521,Flamberge,228751,45750
+2522,Crescent Axe,170975,34195
+2523,Bullova,214481,42896
+2524,Truncheon,144669,28933
+2525,War Hammer,200862,40172
+2526,Main Gauche,145755,29151
+2527,Battle Staff,217350,43470
+2528,Falchion,1135564,227112
+2529,Zweihander,1424630,284926
+2530,Francisca,1143960,228792
+2531,Great Axe,876149,175229
+2532,Morning Star,1152470,230494
+2533,War Maul,983675,196735
+2534,Rondel,708641,141728
+2535,War Staff,990913,198182
+2536,Trogg Stone Tooth,0,0
+2545,Malleable Chain Leggings,10482,2096
+2546,Royal Frostmane Girdle,325,65
+2547,Boar Handler Gloves,6,1
+2548,Barrel of Barleybrew Scalder,0,0
+2549,Staff of the Shade,407690,81538
+2553,Recipe: Elixir of Minor Agility,100,25
+2555,Recipe: Swiftness Potion,160,40
+2556,Recipe: Elixir of Tongues,160,40
+2560,Jitters' Completed Journal,0,0
+2561,Chok'sul's Head,0,0
+2562,Bouquet of Scarlet Begonias,3693,738
+2563,Strange Smelling Powder,0,0
+2564,Elven Spirit Claws,1132074,226414
+2565,Rod of Molten Fire,192769,38553
+2566,Sacrificial Robes,24810,4962
+2567,Evocator's Blade,29156,5831
+2568,Brown Linen Vest,388,77
+2569,Linen Boots,1288,257
+2570,Linen Cloak,149,29
+2571,Viny Wrappings,149,29
+2572,Red Linen Robe,1142,228
+2575,Red Linen Shirt,100,25
+2576,White Linen Shirt,300,75
+2577,Blue Linen Shirt,300,75
+2578,Barbaric Linen Vest,1908,381
+2579,Green Linen Shirt,150,37
+2580,Reinforced Linen Cape,1245,249
+2581,Heavy Linen Bandage,80,20
+2582,Green Woolen Vest,2997,599
+2583,Woolen Boots,2604,520
+2584,Woolen Cape,1173,234
+2585,Gray Woolen Robe,4688,937
+2586,Gamemaster's Robe,12,2
+2587,Gray Woolen Shirt,800,200
+2589,Linen Cloth,55,13
+2590,Forest Spider Webbing,20,5
+2591,Dirty Trogg Cloth,20,5
+2592,Wool Cloth,135,33
+2593,Flask of Stormwind Tawny,150,37
+2594,Flagon of Dwarven Mead,1500,375
+2595,Jug of Badlands Bourbon,2000,500
+2596,Skin of Dwarven Stout,120,30
+2598,Pattern: Red Linen Robe,120,30
+2601,Pattern: Gray Woolen Robe,400,100
+2604,Red Dye,50,12
+2605,Green Dye,100,25
+2606,Lurker Venom,0,0
+2607,Mo'grosh Crystal,0,0
+2608,Threshadon Ambergris,255,63
+2609,Disarming Colloid,0,0
+2610,Disarming Mixture,0,0
+2611,Crude Flint,0,0
+2612,Plain Robe,287,57
+2613,Double-Stitched Robes,1064,212
+2614,Robe of Apprenticeship,2034,406
+2615,Chromatic Robe,22280,4456
+2616,Shimmering Silk Robes,7390,1478
+2617,Burning Robes,139294,27858
+2618,Silver Dress Robes,1099712,219942
+2619,Grelin's Report,0,0
+2620,Augural Shroud,211557,42311
+2621,Cowl of Necromancy,152442,30488
+2622,Nimar's Tribal Headdress,164618,32923
+2623,Holy Diadem,374904,74980
+2624,Thinking Cap,482539,96507
+2625,Menethil Statuette,0,0
+2628,Senir's Report,0,0
+2629,Intrepid Strongbox Key,0,0
+2632,Curved Dagger,3029,605
+2633,Jungle Remedy,0,0
+2634,Venom Fern Extract,0,0
+2635,Loose Chain Belt,97,19
+2636,Carved Stone Idol,0,0
+2637,Ironband's Progress Report,0,0
+2639,Merrin's Letter,0,0
+2640,Miners' Gear,0,0
+2642,Loose Chain Boots,193,38
+2643,Loose Chain Bracers,169,33
+2644,Loose Chain Cloak,66,13
+2645,Loose Chain Gloves,67,13
+2646,Loose Chain Pants,187,37
+2648,Loose Chain Vest,343,68
+2649,Flimsy Chain Belt,13,2
+2650,Flimsy Chain Boots,20,4
+2651,Flimsy Chain Bracers,20,4
+2652,Flimsy Chain Cloak,42,8
+2653,Flimsy Chain Gloves,18,3
+2654,Flimsy Chain Pants,25,5
+2656,Flimsy Chain Vest,57,11
+2657,Red Leather Bag,3500,875
+2658,Ados Fragment,0,0
+2659,Modr Fragment,0,0
+2660,Golm Fragment,0,0
+2661,Neru Fragment,0,0
+2662,Ribbly's Quiver,35000,8750
+2663,Ribbly's Bandolier,35000,8750
+2664,Spinner Fang,6175,1235
+2665,Stormwind Seasoning Herbs,20,5
+2666,Barrel of Thunder Ale,0,0
+2667,MacGrann's Dried Meats,0,0
+2668,Threshadon Tooth,0,0
+2671,Wendigo Mane,0,0
+2672,Stringy Wolf Meat,16,4
+2673,Coyote Meat,40,10
+2674,Crawler Meat,48,12
+2675,Crawler Claw,44,11
+2676,Shimmerweed,0,0
+2677,Boar Ribs,60,15
+2678,Mild Spices,10,0
+2679,Charred Wolf Meat,20,5
+2680,Spiced Wolf Meat,40,10
+2681,Roasted Boar Meat,24,6
+2682,Cooked Crab Claw,100,25
+2683,Crab Cake,100,25
+2684,Coyote Steak,80,20
+2685,Succulent Pork Ribs,300,75
+2686,Thunder Ale,50,12
+2687,Dry Pork Ribs,100,25
+2690,Latched Belt,46,9
+2691,Outfitter Boots,63,12
+2692,Hot Spices,40,10
+2694,Settler's Leggings,3147,629
+2696,Cask of Evershine,0,0
+2697,Recipe: Goretusk Liver Pie,400,100
+2698,Recipe: Cooked Crab Claw,400,100
+2699,Recipe: Redridge Goulash,800,200
+2700,Recipe: Succulent Pork Ribs,400,100
+2701,Recipe: Seasoned Wolf Kabob,1600,400
+2702,Lightforge Ingot,0,0
+2712,Crate of Lightforge Ingots,0,0
+2713,Ol' Sooty's Head,0,0
+2720,Muddy Note,0,0
+2721,Holy Shroud,51620,10324
+2722,Wine Ticket,0,0
+2723,Bottle of Dalaran Noir,50,12
+2724,Cloth Request,0,0
+2725,Green Hills of Stranglethorn - Page 1,1500,375
+2728,Green Hills of Stranglethorn - Page 4,1500,375
+2730,Green Hills of Stranglethorn - Page 6,1500,375
+2732,Green Hills of Stranglethorn - Page 8,1500,375
+2734,Green Hills of Stranglethorn - Page 10,1500,375
+2735,Green Hills of Stranglethorn - Page 11,1500,375
+2738,Green Hills of Stranglethorn - Page 14,1500,375
+2740,Green Hills of Stranglethorn - Page 16,1500,375
+2742,Green Hills of Stranglethorn - Page 18,1500,375
+2744,Green Hills of Stranglethorn - Page 20,1500,375
+2745,Green Hills of Stranglethorn - Page 21,1500,375
+2748,Green Hills of Stranglethorn - Page 24,1500,375
+2749,Green Hills of Stranglethorn - Page 25,1500,375
+2750,Green Hills of Stranglethorn - Page 26,1500,375
+2751,Green Hills of Stranglethorn - Page 27,1500,375
+2754,Tarnished Bastard Sword,69,13
+2755,Green Hills of Stranglethorn,0,0
+2756,Green Hills of Stranglethorn - Chapter I,0,0
+2757,Green Hills of Stranglethorn - Chapter II,0,0
+2758,Green Hills of Stranglethorn - Chapter III,0,0
+2759,Green Hills of Stranglethorn - Chapter IV,0,0
+2760,Thurman's Sewing Kit,0,0
+2763,Fisherman Knife,1203,240
+2764,Small Dagger,2534,506
+2765,Hunting Knife,6440,1288
+2766,Deft Stiletto,19561,3912
+2770,Copper Ore,20,5
+2771,Tin Ore,100,25
+2772,Iron Ore,600,150
+2773,Cracked Shortbow,327,65
+2774,Rust-Covered Blunderbuss,234,46
+2775,Silver Ore,300,75
+2776,Gold Ore,2000,500
+2777,Feeble Shortbow,1226,245
+2778,Cheap Blunderbuss,1230,246
+2779,Tear of Tilloa,0,0
+2780,Light Hunting Bow,3590,718
+2781,Dirty Blunderbuss,3215,643
+2782,Mishandled Recurve Bow,10649,2129
+2783,Shoddy Blunderbuss,7105,1421
+2784,Musquash Root,0,0
+2785,Stiff Recurve Bow,20878,4175
+2786,Oiled Blunderbuss,24447,4889
+2787,Trogg Dagger,54,10
+2788,Black Claw Stout,0,0
+2794,An Old History Book,0,0
+2795,Book: Stresses of Iron,0,0
+2797,Heart of Mokk,0,0
+2798,Rethban Ore,100,25
+2799,Gorilla Fang,270,67
+2800,Black Velvet Robes,26007,5201
+2801,Blade of Hanna,6243238,1248647
+2802,Blazing Emblem,6500,1625
+2805,Yeti Fur Cloak,16437,3287
+2806,Package for Stormpike,0,0
+2807,Guillotine Axe,12265,2453
+2815,Curve-Bladed Ripper,1591877,318375
+2816,Death Speaker Scepter,335994,67198
+2817,Hard Leather Tunic,286,57
+2818,Stretched Leather Trousers,2546,509
+2819,Cross Dagger,45161,9032
+2820,Nifty Stopwatch,18650,4662
+2821,Mo'grosh Masher,6428,1285
+2822,Mo'grosh Toothpick,8064,1612
+2823,Mo'grosh Can Opener,9307,1861
+2824,Hurricane,99380,19876
+2825,Bow of Searing Arrows,55868,11173
+2828,Nissa's Remains,0,0
+2829,Gregor's Remains,0,0
+2830,Thurman's Remains,0,0
+2831,Devlin's Remains,0,0
+2832,Verna's Westfall Stew Recipe,0,0
+2833,The Lich's Spellbook,0,0
+2834,Embalming Ichor,0,0
+2835,Rough Stone,8,2
+2836,Coarse Stone,60,15
+2837,Thurman's Letter,0,0
+2838,Heavy Stone,240,60
+2839,A Letter to Yvette,0,0
+2840,Copper Bar,40,10
+2841,Bronze Bar,200,50
+2842,Silver Bar,400,100
+2843,Dirty Knucklebones,0,0
+2844,Copper Mace,534,106
+2845,Copper Axe,551,110
+2846,Tirisfal Pumpkin,0,0
+2847,Copper Shortsword,555,111
+2848,Bronze Mace,7867,1573
+2849,Bronze Axe,7896,1579
+2850,Bronze Shortsword,9161,1832
+2851,Copper Plate Belt,336,67
+2852,Copper Plate Pants,396,79
+2853,Copper Bracers,101,20
+2854,Runed Copper Bracers,1830,366
+2855,Putrid Claw,0,0
+2856,Iron Pike,0,0
+2857,Runed Copper Belt,1849,369
+2858,Darkhound Blood,0,0
+2859,Vile Fin Scale,0,0
+2862,Rough Sharpening Stone,12,3
+2863,Coarse Sharpening Stone,40,10
+2864,Runed Copper Breastplate,3507,701
+2865,Rough Bronze Leggings,4707,941
+2866,Rough Bronze Cuirass,5463,1092
+2867,Rough Bronze Bracers,2757,551
+2868,Patterned Bronze Bracers,3700,740
+2869,Silvered Bronze Breastplate,7387,1477
+2870,Shining Silver Breastplate,11893,2378
+2871,Heavy Sharpening Stone,160,40
+2872,Vicious Night Web Spider Venom,0,0
+2875,Scarlet Insignia Ring,0,0
+2876,Duskbat Pelt,0,0
+2877,Combatant Claymore,188947,37789
+2878,Bearded Boneaxe,68185,13637
+2879,Antipodean Rod,9362,1872
+2880,Weak Flux,100,25
+2881,Plans: Runed Copper Breastplate,600,150
+2882,Plans: Silvered Bronze Shoulders,1200,300
+2883,Plans: Deadly Bronze Poniard,1500,375
+2885,Scarlet Crusade Documents,0,0
+2886,Crag Boar Rib,20,5
+2888,Beer Basted Boar Ribs,40,10
+2889,Recipe: Beer Basted Boar Ribs,240,60
+2891,Letter to the City Architect,0,0
+2892,Empty Poison Vial,100,25
+2893,Empty Poison Vial,150,37
+2894,Rhapsody Malt,50,12
+2898,Mountaineer Chestpiece,190,38
+2899,Wendigo Collar,1192,238
+2900,Stone Buckler,116,23
+2901,Mining Pick,123,24
+2902,Cloak of the Faith,11401,2280
+2903,Daryl's Hunting Bow,4299,859
+2904,Daryl's Hunting Rifle,4962,992
+2905,Goat Fur Cloak,372,74
+2906,Darkshire Mail Leggings,10560,2112
+2907,Dwarven Tree Chopper,8779,1755
+2908,Thornblade,7049,1409
+2909,Red Wool Bandana,0,0
+2910,Gold Militia Boots,7288,1457
+2911,Keller's Girdle,7329,1465
+2912,Claw of the Shadowmancer,20302,4060
+2913,Silk Mantle of Gamn,10073,2014
+2915,Taran Icebreaker,109097,21819
+2916,Gold Lion Shield,22028,4405
+2917,Tranquil Ring,2660,665
+2924,Crocolisk Meat,65,16
+2925,Crocolisk Skin,0,0
+2926,Head of Bazil Thredd,0,0
+2927,Creeping Torment,200,50
+2928,Dust of Decay,20,5
+2930,Essence of Pain,50,12
+2931,Maiden's Anguish,1000,250
+2933,Seal of Wrynn,15000,3750
+2934,Ruined Leather Scraps,30,7
+2939,Frenzy Blood,0,0
+2940,Bloody Bear Paw,175,43
+2941,Prison Shank,17761,3552
+2942,Iron Knuckles,12671,2534
+2943,Eye of Paleth,14804,2960
+2944,Cursed Eye of Paleth,41771,8354
+2946,Broken Balanced Throwing Dagger,30,0
+2947,Broken Small Throwing Knife,15,0
+2949,Mariner Boots,7260,1452
+2950,Icicle Rod,17384,3476
+2951,Ring of the Underwood,2625,656
+2953,Watch Master's Cloak,16220,3244
+2954,Night Watch Pantaloons,21746,4349
+2955,First Mate Hat,239761,47952
+2956,Report on the Defias Brotherhood,0,0
+2957,Journeyman's Vest,1045,209
+2958,Journeyman's Pants,829,165
+2959,Journeyman's Boots,288,57
+2960,Journeyman's Gloves,194,38
+2961,Burnt Leather Vest,1090,218
+2962,Burnt Leather Breeches,842,168
+2963,Burnt Leather Boots,292,58
+2964,Burnt Leather Gloves,255,51
+2965,Warrior's Tunic,1106,221
+2966,Warrior's Pants,854,170
+2967,Warrior's Boots,385,77
+2968,Warrior's Gloves,200,40
+2969,Spellbinder Vest,3342,668
+2970,Spellbinder Pants,2917,583
+2971,Spellbinder Boots,952,190
+2972,Spellbinder Gloves,642,128
+2973,Hunting Tunic,3390,678
+2974,Hunting Pants,2749,549
+2975,Hunting Boots,897,179
+2976,Hunting Gloves,1211,242
+2977,Veteran Armor,2780,556
+2978,Veteran Leggings,2426,485
+2979,Veteran Boots,911,182
+2980,Veteran Gloves,1229,245
+2981,Seer's Robe,7374,1474
+2982,Seer's Pants,5696,1139
+2983,Seer's Boots,2447,489
+2984,Seer's Gloves,2182,436
+2985,Inscribed Leather Breastplate,7484,1496
+2986,Inscribed Leather Pants,5780,1156
+2987,Inscribed Leather Boots,3284,656
+2988,Inscribed Leather Gloves,2546,509
+2989,Burnished Tunic,7593,1518
+2990,Burnished Leggings,7073,1414
+2991,Burnished Boots,5315,1063
+2992,Burnished Gloves,2758,551
+2996,Bolt of Linen Cloth,160,40
+2997,Bolt of Woolen Cloth,400,100
+2998,A Simple Compass,0,0
+2999,Steelgrill's Tools,0,0
+3000,Brood Mother Carapace,835,167
+3008,Wendigo Fur Cloak,305,61
+3010,Fine Sand,405,101
+3011,Feathered Headdress,147270,29454
+3012,Scroll of Agility,200,50
+3013,Scroll of Protection,100,25
+3014,Battleworn Axe,0,0
+3016,Gunther's Spellbook,0,0
+3017,Sevren's Orders,0,0
+3018,Hide of Lupos,8663,1732
+3019,Noble's Robe,5877,1175
+3020,Enduring Cap,82256,16451
+3021,Ranger Bow,36720,7344
+3022,Bluegill Breeches,12060,2412
+3023,Large Bore Blunderbuss,8170,1634
+3024,"BKP 2700 ""Enforcer"",23056,4611
+3025,""BKP 42 ""Ultra"",228022,45604
+3026,""Reinforced Bow",8258,1651
+3027,Heavy Recurve Bow,19258,3851
+3030,Razor Arrow,300,0
+3033,Solid Shot,300,0
+3035,Laced Pumpkin,0,0
+3036,Heavy Shortbow,4299,859
+3037,Whipwood Recurve Bow,302418,60483
+3039,Short Ash Bow,21300,4260
+3040,Hunter's Muzzle Loader,9013,1802
+3041,"""Mage-Eye"" Blunderbuss",88306,17661
+3042,"BKP ""Sparrow"" Smallbore",169101,33820
+3045,Lambent Scale Boots,19558,3911
+3047,Lambent Scale Gloves,13232,2646
+3048,Lambent Scale Legguards,21825,4365
+3049,Lambent Scale Breastplate,26499,5299
+3053,Humbert's Chestpiece,29448,5889
+3055,Forest Leather Chestpiece,20823,4164
+3056,Forest Leather Pants,20900,4180
+3057,Forest Leather Boots,10724,2144
+3058,Forest Leather Gloves,8748,1749
+3065,Bright Boots,9122,1824
+3066,Bright Gloves,7441,1488
+3067,Bright Pants,21746,4349
+3069,Bright Robe,26497,5299
+3070,Ensign Cloak,65,13
+3071,Striking Hatchet,1155,231
+3072,Smoldering Robe,20588,4117
+3073,Smoldering Pants,20666,4133
+3074,Smoldering Gloves,7124,1424
+3075,Eye of Flame,2451061,490212
+3076,Smoldering Boots,8829,1765
+3078,Naga Heartpiercer,37279,7455
+3079,Skorn's Rifle,2479,495
+3080,Candle of Beckoning,0,0
+3081,Nether Gem,0,0
+3082,Dargol's Skull,0,0
+3083,Restabilization Cog,0,0
+3084,Gyromechanic Gear,0,0
+3085,Barrel of Shimmer Stout,0,0
+3086,Cask of Shimmer Stout,0,0
+3087,Mug of Shimmer Stout,45,11
+3103,Coldridge Hammer,2334,466
+3107,Broken Keen Throwing Knife,75,0
+3108,Broken Heavy Throwing Dagger,200,0
+3110,Tunnel Rat Ear,0,0
+3111,Broken Crude Throwing Axe,15,0
+3117,Hildelve's Journal,0,0
+3131,Broken Weighted Throwing Axe,30,0
+3135,Broken Sharp Throwing Axe,75,0
+3137,Broken Deadly Throwing Axe,200,0
+3151,Siege Brigade Vest,511,102
+3152,Driving Gloves,67,13
+3153,Oil-Stained Cloak,296,59
+3154,Thelsamar Axe,5471,1094
+3155,Remedy of Arugal,0,0
+3156,Glutton Shackle,0,0
+3157,Darksoul Shackle,0,0
+3158,Burnt Hide Bracers,428,85
+3160,Ironplate Buckler,2352,470
+3161,Robe of the Keeper,2582,516
+3162,Notched Rib,0,0
+3163,Blackened Skull,0,0
+3164,Discolored Worg Heart,135,33
+3165,Quinn's Potion,0,0
+3166,Ironheart Chain,2379,475
+3167,Thick Spider Hair,275,68
+3168,Chipped Scale,22,5
+3169,Chipped Bear Tooth,75,18
+3170,Large Bear Tooth,190,47
+3171,Broken Boar Tusk,25,6
+3172,Boar Intestines,75,18
+3173,Bear Meat,60,15
+3174,Spider Ichor,65,16
+3175,Ruined Dragonhide,400,100
+3176,Small Claw,300,75
+3177,Tiny Fang,200,50
+3179,Cracked Dragon Molting,500,125
+3180,Flecked Raptor Scale,675,168
+3181,Partially Digested Meat,95,23
+3182,Spider's Silk,1550,387
+3183,Mangy Claw,0,0
+3184,Hook Dagger,8019,1603
+3185,Acrobatic Staff,304835,60967
+3186,Viking Sword,58804,11760
+3187,Sacrificial Kris,1159774,231954
+3188,Coral Claymore,4398,879
+3189,Wood Chopper,498,99
+3190,Beatstick,499,99
+3191,Arced War Axe,16042,3208
+3192,Short Bastard Sword,2479,495
+3193,Oak Mallet,13466,2693
+3194,Black Malice,10467,2093
+3195,Barbaric Battle Axe,7892,1578
+3196,Edged Bastard Sword,7919,1583
+3197,Stonecutter Claymore,352428,70485
+3198,Battering Hammer,21760,4352
+3199,Battle Slayer,16320,3264
+3200,Burnt Leather Bracers,135,27
+3201,Barbarian War Axe,53016,10603
+3202,Forest Leather Bracers,6991,1398
+3203,Dense Triangle Mace,64098,12819
+3204,Deepwood Bracers,10313,2062
+3205,Inscribed Leather Bracers,1619,323
+3206,Cavalier Two-Hander,54023,10804
+3207,Hunting Bracers,616,123
+3208,Conk Hammer,2811718,562343
+3209,Ancient War Sword,33917,6783
+3210,Brutal War Axe,74592,14918
+3211,Burnished Bracers,2518,503
+3212,Lambent Scale Bracers,10622,2124
+3213,Veteran Bracers,525,105
+3214,Warrior's Bracers,199,39
+3216,Warm Winter Robe,482,96
+3217,Foreman Belt,1188,237
+3218,Pyrewood Shackle,0,0
+3220,Blood Sausage,160,40
+3222,Wicked Dagger,9547,1909
+3223,Frostmane Scepter,1535,307
+3224,Silver-Lined Bracers,250,50
+3225,Bloodstained Knife,548,109
+3227,Nightbane Staff,20901,4180
+3228,Jimmied Handcuffs,6444,1288
+3229,Tarantula Silk Sash,5929,1185
+3230,Black Wolf Bracers,4499,899
+3231,Cutthroat Pauldrons,13361,2672
+3233,Gnoll Hide Sack,850,212
+3234,Deliah's Ring,0,0
+3235,Ring of Scorn,1650,412
+3236,Rot Hide Ichor,0,0
+3237,Sample Ichor,0,0
+3238,Holland's Findings,0,0
+3239,Rough Weightstone,12,3
+3240,Coarse Weightstone,40,10
+3241,Heavy Weightstone,160,40
+3248,Translated Letter from The Embalmer,0,0
+3250,Bethor's Scroll,0,0
+3251,Bethor's Potion,0,0
+3252,Deathstalker Report,0,0
+3253,Grizzled Bear Heart,0,0
+3254,Skittering Blood,0,0
+3255,Berard's Journal,0,0
+3256,Lake Skulker Moss,0,0
+3257,Lake Creeper Moss,0,0
+3258,Hardened Tumor,0,0
+3260,Scarlet Initiate Robes,56,11
+3261,Webbed Cloak,64,12
+3262,Putrid Wooden Hammer,54,10
+3263,Webbed Pants,39,7
+3264,Duskbat Wing,0,0
+3265,Scavenger Paw,0,0
+3266,Scarlet Armband,0,0
+3267,Forsaken Shortsword,128,25
+3268,Forsaken Dagger,129,25
+3269,Forsaken Maul,129,25
+3270,Flax Vest,91,18
+3272,Zombie Skin Leggings,92,18
+3273,Rugged Plate Vest,92,18
+3274,Flax Boots,69,13
+3275,Flax Gloves,46,9
+3276,Deathguard Buckler,77,15
+3277,Executor Staff,151,30
+3279,Battle Chain Boots,610,122
+3280,Battle Chain Bracers,194,38
+3281,Battle Chain Gloves,330,66
+3282,Battle Chain Pants,1374,274
+3283,Battle Chain Tunic,1723,344
+3284,Tribal Boots,621,124
+3285,Tribal Bracers,257,51
+3286,Tribal Gloves,420,84
+3287,Tribal Pants,1399,279
+3288,Tribal Vest,1754,350
+3289,Ancestral Boots,506,101
+3290,Ancestral Gloves,426,85
+3291,Ancestral Woollies,1773,354
+3292,Ancestral Tunic,1780,356
+3293,Deadman Cleaver,58,11
+3294,Deadman Club,58,11
+3295,Deadman Blade,54,10
+3296,Deadman Dagger,54,10
+3297,Fel Moss,0,0
+3299,Fractured Canine,195,48
+3300,Rabbit's Foot,38,9
+3301,Sharp Canine,410,102
+3302,Brackwater Boots,1850,370
+3303,Brackwater Bracers,416,83
+3304,Brackwater Gauntlets,626,125
+3305,Brackwater Leggings,2875,575
+3306,Brackwater Vest,4388,877
+3307,Barbaric Cloth Boots,1884,376
+3308,Barbaric Cloth Gloves,1270,254
+3309,Barbaric Loincloth,2917,583
+3310,Barbaric Cloth Vest,4452,890
+3311,Ceremonial Leather Ankleguards,1065,213
+3312,Ceremonial Leather Bracers,498,99
+3313,Ceremonial Leather Harness,4180,836
+3314,Ceremonial Leather Gloves,1206,241
+3315,Ceremonial Leather Loincloth,3185,637
+3316,Alaric's Head,0,0
+3317,A Talking Head,0,0
+3318,Alaric's Remains,0,0
+3319,Short Sabre,550,110
+3320,Bonecaster Sash,194,38
+3321,Gray Fur Booties,291,58
+3322,Wispy Cloak,99,19
+3323,Ghostly Bracers,140,28
+3324,Ghostly Mantle,9782,1956
+3325,Vile Fin Battle Axe,704,140
+3327,Vile Fin Oracle Staff,709,141
+3328,Spider Web Robe,409,81
+3329,Spiked Wooden Plank,896,179
+3330,Dargol's Hauberk,1640,328
+3331,Melrache's Cape,591,118
+3332,Perrine's Boots,281,56
+3334,Farmer's Shovel,345,69
+3335,Farmer's Broom,230,46
+3336,Flesh Piercer,13843,2768
+3337,Dragonmaw War Banner,0,0
+3339,Dwarven Tinder,0,0
+3340,Incendicite Ore,125,31
+3341,Gauntlets of Ogre Strength,28363,5672
+3342,Captain Sanders' Shirt,550,137
+3343,Captain Sanders' Booty Bag,1800,450
+3344,Captain Sanders' Sash,1285,257
+3345,Silk Wizard Hat,172025,34405
+3347,Bundle of Crocolisk Skins,0,0
+3348,Giant Crocolisk Skin,0,0
+3349,Sida's Bag,0,0
+3352,Ooze-Covered Bag,5000,1250
+3353,Rune-Inscribed Pendant,0,0
+3354,Dalaran Pendant,0,0
+3355,Wild Steelbloom,200,50
+3356,Kingsblood,120,30
+3357,Liferoot,300,75
+3358,Khadgar's Whisker,700,175
+3360,Stitches' Femur,8226,1645
+3363,Frayed Belt,13,2
+3365,Frayed Bracers,30,6
+3369,Grave Moss,100,25
+3370,Patchwork Belt,89,17
+3371,Crystal Vial,400,5
+3372,Cracked Vial,400,20
+3373,Patchwork Bracers,126,25
+3374,Calico Belt,401,80
+3375,Calico Bracers,269,53
+3376,Canvas Belt,873,174
+3377,Canvas Bracers,1007,201
+3378,Brocade Belt,1511,302
+3379,Brocade Bracers,1937,387
+3380,Cross-Stitched Belt,8528,1705
+3381,Cross-Stitched Bracers,6291,1258
+3382,Weak Troll's Blood Elixir,40,10
+3383,Elixir of Wisdom,400,100
+3385,Lesser Mana Potion,120,30
+3386,Potion of Curing,140,35
+3387,Limited Invulnerability Potion,120,30
+3388,Strong Troll's Blood Elixir,160,40
+3389,Elixir of Defense,160,40
+3390,Elixir of Lesser Agility,140,35
+3391,Elixir of Ogre's Strength,160,40
+3392,Ringed Helm,30817,6163
+3394,Recipe: Potion of Curing,1000,250
+3395,Recipe: Limited Invulnerability Potion,1000,250
+3396,Recipe: Elixir of Lesser Agility,1000,250
+3397,Young Crocolisk Skin,0,0
+3399,Vulture Talon,325,81
+3400,Lucine Longsword,13807,2761
+3401,Rough Crocolisk Scale,325,81
+3402,Soft Patch of Fur,2410,602
+3403,Ivory Boar Tusk,1285,321
+3404,Buzzard Wing,725,181
+3405,Raven Claw Talisman,0,0
+3406,Black Feather Quill,0,0
+3407,Sapphire of Sky,0,0
+3408,Rune of Nesting,0,0
+3409,Nightsaber Fang,0,0
+3411,Strigid Owl Feather,0,0
+3412,Webwood Spider Silk,0,0
+3413,Doomspike,29388,5877
+3414,Crested Scepter,29494,5898
+3415,Staff of the Friar,37005,7401
+3416,Martyr's Chain,20798,4159
+3417,Onyx Claymore,37279,7455
+3418,Fel Cone,0,0
+3419,Red Rose,2984,596
+3420,Black Rose,160645,32129
+3421,Simple Wildflowers,444,88
+3422,Beautiful Wildflowers,21956,4391
+3423,Bouquet of White Roses,1019904,203980
+3424,Bouquet of Black Roses,1035874,207174
+3425,Woven Wand,0,0
+3426,Bold Yellow Shirt,4000,1000
+3427,Stylish Black Shirt,6000,1500
+3428,Common Gray Shirt,400,100
+3429,Guardsman Belt,7017,1403
+3430,Sniper Rifle,1433337,286667
+3431,Bone-Studded Leather,9347,1869
+3434,Slumber Sand,15,3
+3435,Zombie Skin Bracers,140,28
+3437,Clasped Belt,141,28
+3439,Zombie Skin Boots,212,42
+3440,Bonecracker,3203,640
+3442,Apprentice Sash,394,78
+3443,Ceremonial Tomahawk,692,138
+3444,Tiller's Vest,632,126
+3445,Ceremonial Knife,1133,226
+3446,Darkwood Staff,2963,592
+3447,Cryptwalker Boots,202,40
+3448,Senggin Root,25,6
+3449,Mystic Shawl,1809,361
+3450,Faerleia's Shield,2218,443
+3451,Nightglow Concoction,3173,634
+3452,Ceranium Rod,11610,2322
+3453,Quilted Bracers,411,82
+3454,Reconnaissance Boots,921,184
+3455,Deathstalker Shortsword,941,188
+3456,Dog Whistle,25500,6375
+3457,Stamped Trousers,3885,777
+3458,Rugged Mail Gloves,1960,392
+3460,Holland's Special Drink,0,0
+3461,High Robe of the Adjudicator,8804,1760
+3462,Talonstrike,11419,2283
+3463,Broken Silver Star,37,9
+3464,Feathered Arrow,35,8
+3465,Exploding Shot,36,9
+3466,Strong Flux,2000,500
+3468,Renferrel's Findings,0,0
+3469,Copper Plate Boots,287,57
+3470,Rough Grinding Stone,20,5
+3471,Copper Chain Vest,1092,218
+3472,Runed Copper Gauntlets,885,177
+3473,Runed Copper Pants,1766,353
+3474,Gemmed Copper Gauntlets,1192,238
+3475,Cloak of Flames,60040,12008
+3476,Gray Bear Tongue,0,0
+3477,Creeper Ichor,0,0
+3478,Coarse Grinding Stone,40,10
+3480,Rough Bronze Shoulders,4336,867
+3481,Silvered Bronze Shoulders,5818,1163
+3482,Silvered Bronze Boots,5282,1056
+3483,Silvered Bronze Gauntlets,4118,823
+3484,Green Iron Boots,7115,1423
+3485,Green Iron Gauntlets,4798,959
+3486,Heavy Grinding Stone,400,100
+3487,Heavy Copper Broadsword,6212,1242
+3488,Copper Battle Axe,3097,619
+3489,Thick War Axe,4448,889
+3490,Deadly Bronze Poniard,10677,2135
+3491,Heavy Bronze Mace,10716,2143
+3492,Mighty Iron Hammer,14372,2874
+3493,Raptor's End,28556,5711
+3495,Elixir of Suffering,0,0
+3496,Mountain Lion Blood,0,0
+3497,Elixir of Pain,0,0
+3498,Taretha's Necklace,0,0
+3502,Mudsnout Blossom,0,0
+3505,Alterac Signet Ring,0,0
+3506,Mudsnout Composite,0,0
+3508,Mudsnout Mixture,0,0
+3509,Daggerspine Scale,0,0
+3510,Torn Fin Eye,0,0
+3511,Cloak of the People's Militia,1871,374
+3514,Mor'Ladim's Skull,0,0
+3515,Ataeric's Staff,0,0
+3516,Lescovar's Head,0,0
+3517,Keg of Shindigger Stout,0,0
+3518,Decrypted Letter,0,0
+3520,Tainted Keg,0,0
+3521,Cleverly Encrypted Letter,0,0
+3530,Wool Bandage,100,25
+3531,Heavy Wool Bandage,230,57
+3550,Targ's Head,0,0
+3551,Muckrake's Head,0,0
+3552,Glommus' Head,0,0
+3553,Mug'thol's Head,0,0
+3554,Crown of Will,0,0
+3555,Robe of Solomon,9032,1806
+3556,Dread Mage Hat,11231,2246
+3558,Fen Keeper Robe,9136,1827
+3559,Night Watch Gauntlets,2779,555
+3560,Mantle of Honor,18366,3673
+3561,Resilient Poncho,7817,1563
+3562,Belt of Vindication,5798,1159
+3563,Seafarer's Pantaloons,5611,1122
+3564,Shipment of Iron,0,0
+3565,Beerstained Gloves,2472,494
+3566,Raptorbane Armor,9836,1967
+3567,Dwarven Fishing Pole,7691,1538
+3569,Vicar's Robe,236947,47389
+3570,Bonegrinding Pestle,4198,839
+3571,Trogg Beater,13766,2753
+3572,Daryl's Shortsword,4861,972
+3573,Hunting Quiver,850,212
+3574,Hunting Ammo Sack,850,212
+3575,Iron Bar,800,200
+3576,Tin Bar,140,35
+3577,Gold Bar,2400,600
+3578,Harvester's Pants,2380,476
+3581,Serrated Knife,5231,1046
+3582,Acidproof Cloak,2750,550
+3583,Weathered Belt,406,81
+3585,Camouflaged Tunic,6676,1335
+3586,Logsplitter,5172,1034
+3587,Embroidered Belt,594269,118853
+3588,Embroidered Bracers,596423,119284
+3589,Heavy Weave Belt,1015,203
+3590,Heavy Weave Bracers,1019,203
+3591,Padded Belt,7912,1582
+3592,Padded Bracers,7940,1588
+3593,Russet Belt,69817,13963
+3594,Russet Bracers,70065,14013
+3595,Tattered Cloth Belt,42,8
+3596,Tattered Cloth Bracers,42,8
+3597,Thick Cloth Belt,2745,549
+3598,Thick Cloth Bracers,2756,551
+3599,Thin Cloth Belt,43,8
+3600,Thin Cloth Bracers,43,8
+3601,Syndicate Missive,0,0
+3602,Knitted Belt,256,51
+3603,Knitted Bracers,256,51
+3604,Bandolier of the Night Watch,2000,500
+3605,Quiver of the Night Watch,2000,500
+3606,Woven Belt,259,51
+3607,Woven Bracers,260,52
+3608,Plans: Mighty Iron Hammer,2000,500
+3609,Plans: Copper Chain Vest,100,25
+3610,Plans: Gemmed Copper Gauntlets,200,50
+3611,Plans: Green Iron Boots,2000,500
+3612,Plans: Green Iron Gauntlets,2000,500
+3613,Valdred's Hands,0,0
+3614,Yowler's Paw,0,0
+3615,Kurzen's Head,0,0
+3616,Mind's Eye,0,0
+3617,Pendant of Shadow,0,0
+3618,Gobbler's Head,0,0
+3619,Snellig's Snuffbox,0,0
+3621,Ivar's Head,0,0
+3622,Essence of Nightlash,0,0
+3623,Thule's Head,0,0
+3625,Nek'rosh's Head,0,0
+3626,Head of Baron Vardus,0,0
+3627,Fang of Vagash,0,0
+3628,Hand of Dextren Ward,0,0
+3629,Mistmantle Family Ring,0,0
+3630,Head of Targorr,0,0
+3631,Bellygrub's Tusk,0,0
+3632,Fangore's Paw,0,0
+3633,Head of Gath'Ilzogg,0,0
+3634,Head of Grimson,0,0
+3635,Maggot Eye's Paw,0,0
+3636,Scale of Old Murk-Eye,0,0
+3637,Head of VanCleef,0,0
+3638,Sarltooth's Talon,0,0
+3639,Ear of Balgaras,0,0
+3640,Head of Deepfury,0,0
+3641,Journeyman's Bracers,140,28
+3642,Ancestral Bracers,197,39
+3643,Spellbinder Bracers,626,125
+3644,Barbaric Cloth Bracers,419,83
+3645,Seer's Cuffs,1668,333
+3647,Bright Bracers,6062,1212
+3649,Tribal Buckler,576,115
+3650,Battle Shield,342,68
+3651,Veteran Shield,2177,435
+3652,Hunting Buckler,1820,364
+3653,Ceremonial Buckler,2193,438
+3654,Brackwater Shield,1834,366
+3655,Burnished Shield,6642,1328
+3656,Lambent Scale Shield,22688,4537
+3657,Hillsbrad Town Registry,0,0
+3658,Recovered Tome,0,0
+3659,Worn Leather Book,0,0
+3660,Tomes of Alterac,0,0
+3661,Handcrafted Staff,23,4
+3662,Crocolisk Steak,100,25
+3663,Murloc Fin Soup,500,125
+3664,Crocolisk Gumbo,400,100
+3665,Curiously Tasty Omelet,600,150
+3666,Gooey Spider Cake,400,100
+3667,Tender Crocolisk Meat,100,25

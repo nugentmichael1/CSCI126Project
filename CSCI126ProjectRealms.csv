@@ -1,0 +1,369 @@
+realm,name,region,locale,population
+NULL,埃霍恩,CN,NULL,NULL
+1,Aegwynn,US,en_US,122953
+2,Aerie Peak,US,en_US,215631
+3,Agamaggan,US,en_US,36597
+4,Aggramar,US,en_US,166296
+5,Akama,US,en_US,56562
+6,Alexstrasza,US,en_US,115086
+7,Alleria,US,en_US,102213
+8,Altar of Storms,US,en_US,39458
+9,Alterac Mountains,US,en_US,59156
+13,Anub'arak,US,en_US,22584
+15,Area 52,US,en_US,597499
+16,Argent Dawn,US,en_US,128663
+17,Arthas,US,en_US,213310
+18,Arygos,US,en_US,78250
+20,Azgalor,US,en_US,75624
+21,Azjol-Nerub,US,en_US,84755
+22,Azralon,US,pt_BR,367343
+23,Azuremyst,US,en_US,97697
+24,Baelgun,US,en_US,76233
+25,Barthilas,US,en_US,266450
+27,Blackhand,US,en_US,132264
+29,Blackwater Raiders,US,en_US,68647
+30,Blackwing Lair,US,en_US,23767
+32,Bladefist,US,en_US,90453
+33,Bleeding Hollow,US,en_US,359509
+35,Bloodhoof,US,en_US,100920
+38,Bronzebeard,US,en_US,88920
+40,Caelestrasz,US,en_US,128210
+41,Cairne,US,en_US,71523
+42,Naxxramas,US,NULL,NULL
+43,Blackmoore,US,NULL,NULL
+44,Coilfang,US,en_US,25459
+45,Dalaran,US,en_US,679178
+46,Darkspear,US,en_US,325042
+48,Aman'Thul,US,en_US,139533
+50,Deathwing,US,en_US,90877
+51,Dentarg,US,en_US,63447
+52,Draenor,US,en_US,108661
+53,Dragonblight,US,en_US,102794
+54,Drak'Tharon,US,en_US,27307
+56,Darrowmere,US,en_US,55617
+57,Drakkari,US,es_MX,111779
+59,Durotan,US,en_US,87745
+60,Earthen Ring,US,en_US,130748
+61,Eitrigg,US,en_US,78183
+63,Auchindoun,US,en_US,22265
+64,Emerald Dream,US,en_US,409885
+65,Andorhal,US,en_US,29983
+68,Farstriders,US,en_US,70250
+69,Feathermoon,US,en_US,117278
+71,Dreadmaul,US,en_US,57869
+73,Gallywix,US,pt_BR,125406
+75,Internal Record 3677,US,NULL,NULL
+78,Goldrinn,US,pt_BR,184592
+79,Greymane,US,en_US,96413
+81,Internal Record 3697,US,NULL,NULL
+82,Eredar,US,en_US,50604
+84,Hyjal,US,en_US,245192
+85,Burning Blade,US,en_US,78241
+86,Illidan,US,en_US,625218
+88,Kel'Thuzad,US,en_US,337322
+89,Kil'jaeden,US,en_US,278549
+90,Kilrogg,US,en_US,110491
+91,Kirin Tor,US,en_US,76999
+93,Lightbringer,US,en_US,254880
+94,Lightninghoof,US,en_US,56116
+95,Mal'Ganis,US,en_US,362456
+96,Ghostlands,US,en_US,84690
+97,Misha,US,en_US,71353
+98,Borean Tundra,US,en_US,68822
+99,Moon Guard,US,en_US,470842
+101,Nazgrel,US,en_US,62065
+102,Nemesis,US,pt_BR,237610
+103,Proudmoore,US,en_US,506367
+104,Quel'Thalas,US,es_MX,356098
+105,Bloodscalp,US,en_US,55617
+106,Ragnaros,US,es_MX,401983
+107,Ravencrest,US,en_US,115211
+109,Runetotem,US,en_US,85019
+110,Sargeras,US,en_US,571112
+111,Internal Record 3695,US,NULL,NULL
+112,Stormrage,US,en_US,682854
+113,Stormreaver,US,en_US,190890
+114,Thrall,US,en_US,483650
+115,Tichondrius,US,en_US,701295
+117,Turalyon,US,en_US,159146
+118,Xavius,US,NULL,0
+119,Wyrmrest Accord,US,en_US,431630
+120,Zul'jin,US,en_US,455814
+121,Aegwynn,EU,de_DE,270459
+123,Agamaggan,EU,en_GB,31795
+124,Aggra (Português),EU,pt_BR,58682
+125,Aggramar,EU,en_GB,97524
+126,Ahn'Qiraj,EU,en_GB,30969
+127,Al'Akir,EU,en_GB,86338
+128,Alexstrasza,EU,de_DE,67186
+129,Alleria,EU,de_DE,122468
+130,Alonsus,EU,en_GB,62901
+131,Internal Record 3680,EU,NULL,NULL
+133,Anetheron,EU,de_DE,41021
+134,Antonidas,EU,de_DE,351350
+135,Aman'Thul,EU,de_DE,101892
+136,Arak-arahm,EU,fr_FR,31847
+137,Arathi,EU,fr_FR,22754
+138,Arathor,EU,en_GB,113321
+139,Archimonde,EU,fr_FR,284169
+140,Area 52,EU,de_DE,48713
+141,Argent Dawn,EU,en_GB,452398
+142,Arthas,EU,de_DE,72486
+143,Arygos,EU,de_DE,64729
+144,Ashenvale,EU,ru_RU,159995
+145,Aszune,EU,en_GB,82676
+146,Auchindoun,EU,en_GB,111883
+147,Azjol-Nerub,EU,en_GB,135347
+149,Azuregos,EU,ru_RU,178475
+150,Azuremyst,EU,en_GB,55407
+151,Azshara,EU,de_DE,94024
+152,Blackhand,EU,de_DE,319490
+153,Blackmoore,EU,de_DE,379430
+154,Blackrock,EU,de_DE,320992
+155,Blackscar,EU,ru_RU,209156
+156,Bladefist,EU,en_GB,50035
+157,Aerie Peak,EU,en_GB,81760
+158,Bloodfeather,EU,en_GB,36575
+159,Bloodhoof,EU,en_GB,82171
+162,Bronze Dragonflight,EU,en_GB,67862
+163,Burning Blade,EU,en_GB,75424
+164,Chamber of Aspects,EU,en_GB,198590
+165,Chants éternels,EU,fr_FR,59267
+167,Colinas Pardas,EU,es_ES,62040
+168,Confrérie du Thorium,EU,fr_FR,49650
+171,Cho'gall,EU,fr_FR,47168
+173,Internal Record 3660,EU,NULL,NULL
+175,Das Konsortium,EU,de_DE,16660
+176,Deathguard,EU,ru_RU,158259
+177,Deathwing,EU,en_GB,41121
+179,Darkmoon Faire,EU,en_GB,57782
+180,Dentarg,EU,en_GB,32608
+182,Destromath,EU,de_DE,43947
+183,Dethecus,EU,de_DE,39855
+184,Die Aldor,EU,de_DE,128072
+187,Doomhammer,EU,en_GB,145825
+188,Draenor,EU,en_GB,641767
+190,Dragonmaw,EU,en_GB,27407
+191,Drek'Thar,EU,fr_FR,51009
+192,C'Thun,EU,es_ES,124680
+193,Dun Morogh,EU,de_DE,111791
+197,Elune,EU,fr_FR,117693
+198,Emerald Dream,EU,en_GB,102684
+199,Eredar,EU,de_DE,223693
+200,Eversong,EU,ru_RU,222270
+201,Exodar,EU,es_ES,89306
+202,Fordragon,EU,ru_RU,194331
+204,Frostwolf,EU,de_DE,186830
+205,Deepholm,EU,ru_RU,54681
+206,Garona,EU,fr_FR,48090
+207,Garrosh,EU,de_DE,69653
+209,Goldrinn,EU,ru_RU,167859
+210,Gordunni,EU,ru_RU,576661
+213,Howling Fjord,EU,ru_RU,309197
+214,Hyjal,EU,fr_FR,385176
+215,Kazzak,EU,en_GB,554256
+216,Khaz Modan,EU,fr_FR,170588
+218,Internal Record 3714,EU,NULL,NULL
+219,Lightbringer,EU,en_GB,118412
+221,Internal Record 3696,EU,NULL,NULL
+222,Magtheridon,EU,en_GB,225074
+223,Malfurion,EU,de_DE,106158
+224,Malorne,EU,de_DE,58074
+225,Medivh,EU,fr_FR,59049
+226,Moonglade,EU,en_GB,73173
+227,Nemesis,EU,it_IT,123177
+228,Outland,EU,en_GB,532814
+230,Pozzo dell'Eternità,EU,it_IT,121735
+231,Ragnaros,EU,en_GB,375568
+232,Ravencrest,EU,en_GB,448589
+233,Sanguino,EU,es_ES,132709
+234,Silvermoon,EU,en_GB,652620
+235,Soulflayer,EU,ru_RU,444610
+236,Stormscale,EU,en_GB,446452
+237,Internal Record 3687,EU,NULL,NULL
+238,Ambossar,EU,de_DE,51414
+239,Thunderhorn,EU,en_GB,97269
+240,Der Mithrilorden,EU,de_DE,41242
+241,Twisting Nether,EU,en_GB,442261
+242,Ysondre,EU,fr_FR,181397
+243,Arena Pass,EU,NULL,NULL
+244,Arena Pass 1,EU,NULL,NULL
+245,Internal Record 3713,EU,NULL,0
+246,Euskal Encounter,EU,NULL,NULL
+247,Пропуск на Арену 1,EU,NULL,NULL
+248,万色星辰,CN,zh_CN,NULL
+249,丹莫德,CN,zh_CN,NULL
+250,主宰之剑,CN,zh_CN,NULL
+251,丽丽（四川）,CN,zh_CN,NULL
+252,亚雷戈斯,CN,zh_CN,NULL
+253,亡语者,CN,zh_CN,NULL
+254,伊兰尼库斯,CN,zh_CN,NULL
+255,伊利丹,CN,zh_CN,NULL
+256,伊森利恩,CN,zh_CN,NULL
+257,伊森德雷,CN,zh_CN,NULL
+258,伊瑟拉,CN,zh_CN,NULL
+259,伊莫塔尔,CN,zh_CN,NULL
+260,伊萨里奥斯,CN,zh_CN,NULL
+261,元素之力,CN,zh_CN,NULL
+262,克尔苏加德,CN,zh_CN,NULL
+263,克洛玛古斯,CN,zh_CN,NULL
+264,军团要塞,CN,zh_CN,NULL
+265,冬拥湖,CN,zh_CN,NULL
+266,冬泉谷,CN,zh_CN,NULL
+267,冰川之拳,CN,zh_CN,NULL
+268,冰霜之刃,CN,zh_CN,NULL
+269,冰风岗,CN,zh_CN,NULL
+270,凤凰之神,CN,zh_CN,NULL
+271,凯恩血蹄,CN,zh_CN,NULL
+272,利刃之拳,CN,zh_CN,NULL
+273,刺骨利刃,CN,zh_CN,NULL
+274,加兹鲁维,CN,zh_CN,NULL
+275,加基森,CN,zh_CN,NULL
+276,加尔,CN,zh_CN,NULL
+277,加里索斯,CN,zh_CN,NULL
+278,勇士岛,CN,zh_CN,NULL
+279,卡德罗斯,CN,zh_CN,NULL
+280,卡扎克,CN,zh_CN,NULL
+281,卡拉赞,CN,zh_CN,NULL
+282,卡珊德拉,CN,zh_CN,NULL
+283,厄祖玛特,CN,zh_CN,NULL
+284,古加尔,CN,zh_CN,NULL
+285,古尔丹,CN,zh_CN,NULL
+286,古拉巴什,CN,zh_CN,NULL
+287,古达克,CN,zh_CN,NULL
+288,哈卡,CN,zh_CN,NULL
+289,嚎风峡湾,CN,zh_CN,NULL
+290,回音山,CN,zh_CN,NULL
+291,国王之谷,CN,zh_CN,NULL
+292,图拉扬,CN,zh_CN,NULL
+293,圣火神殿,CN,zh_CN,NULL
+294,地狱之石,CN,zh_CN,NULL
+295,地狱咆哮,CN,zh_CN,NULL
+296,埃克索图斯,CN,zh_CN,NULL
+297,埃加洛尔,CN,zh_CN,NULL
+298,埃基尔松,CN,zh_CN,NULL
+299,埃德萨拉,CN,zh_CN,NULL
+300,埃雷达尔,CN,zh_CN,NULL
+301,基尔加丹,CN,zh_CN,NULL
+302,基尔罗格,CN,zh_CN,NULL
+303,塔纳利斯,CN,zh_CN,NULL
+304,塞拉摩,CN,zh_CN,NULL
+305,塞拉赞恩,CN,zh_CN,NULL
+306,塞泰克,CN,zh_CN,NULL
+307,壁炉谷,CN,zh_CN,NULL
+308,外域,CN,zh_CN,NULL
+309,大地之怒,CN,zh_CN,NULL
+310,大漩涡,CN,zh_CN,NULL
+311,天空之墙,CN,zh_CN,NULL
+312,天谴之门,CN,zh_CN,NULL
+313,夺灵者,CN,zh_CN,NULL
+314,奈萨里奥,CN,zh_CN,NULL
+315,奎尔丹纳斯,CN,zh_CN,NULL
+316,奥妮克希亚,CN,zh_CN,NULL
+317,奥尔加隆,CN,zh_CN,NULL
+318,奥杜尔,CN,zh_CN,NULL
+319,奥特兰克,CN,zh_CN,NULL
+320,奥达曼,CN,zh_CN,NULL
+321,守护之剑,CN,zh_CN,NULL
+322,安东尼达斯,CN,zh_CN,NULL
+323,安其拉,CN,zh_CN,NULL
+324,安加萨,CN,zh_CN,NULL
+325,安威玛尔,CN,zh_CN,NULL
+326,安纳塞隆,CN,zh_CN,NULL
+327,安苏,CN,zh_CN,NULL
+328,山丘之王,CN,zh_CN,NULL
+329,巨龙之吼,CN,zh_CN,NULL
+330,巴尔古恩,CN,zh_CN,NULL
+331,布兰卡德,CN,zh_CN,NULL
+332,布莱克摩,CN,zh_CN,NULL
+333,希雷诺斯,CN,zh_CN,NULL
+334,幽暗沼泽,CN,zh_CN,NULL
+335,影之哀伤,CN,zh_CN,NULL
+336,影牙要塞,CN,zh_CN,NULL
+337,恶魔之翼,CN,zh_CN,NULL
+338,戈提克,CN,zh_CN,NULL
+339,拉文凯斯,CN,zh_CN,NULL
+340,拉格纳洛斯,CN,zh_CN,NULL
+341,拉贾克斯,CN,zh_CN,NULL
+342,提尔之手,CN,zh_CN,NULL
+343,提瑞斯法,CN,zh_CN,NULL
+344,摩摩尔,CN,zh_CN,NULL
+345,斯坦索姆,CN,zh_CN,NULL
+346,无尽之海,CN,zh_CN,NULL
+347,无底海渊,CN,zh_CN,NULL
+348,时光之穴,CN,zh_CN,NULL
+349,普罗德摩,CN,zh_CN,NULL
+350,晴日峰（江苏）,CN,zh_CN,NULL
+351,暗影裂口,CN,zh_CN,NULL
+352,暮色森林,CN,zh_CN,NULL
+353,月光林地,CN,zh_CN,NULL
+354,末日祷告祭坛,CN,zh_CN,NULL
+355,末日行者,CN,zh_CN,NULL
+356,朵丹尼尔,CN,zh_CN,NULL
+357,格瑞姆巴托,CN,zh_CN,NULL
+358,格雷迈恩,CN,zh_CN,NULL
+359,梦境之树,CN,zh_CN,NULL
+360,森金,CN,zh_CN,NULL
+361,死亡之翼,CN,zh_CN,NULL
+362,毁灭之锤,CN,zh_CN,NULL
+363,永夜港,CN,zh_CN,NULL
+364,沃金,CN,zh_CN,NULL
+365,法拉希姆,CN,zh_CN,NULL
+366,洛肯,CN,zh_CN,NULL
+367,洛萨,CN,zh_CN,NULL
+368,深渊之巢,CN,zh_CN,NULL
+369,激流之傲,CN,zh_CN,NULL
+370,激流堡,CN,zh_CN,NULL
+371,火喉,CN,zh_CN,NULL
+372,火烟之谷,CN,zh_CN,NULL
+373,烈焰峰,CN,zh_CN,NULL
+374,熊猫酒仙,CN,zh_CN,NULL
+375,熔火之心,CN,zh_CN,NULL
+376,燃烧之刃,CN,zh_CN,NULL
+377,燃烧平原,CN,zh_CN,NULL
+378,狂热之刃,CN,zh_CN,NULL
+379,玛多兰,CN,zh_CN,NULL
+380,玛洛加尔,CN,zh_CN,NULL
+381,玛里苟斯,CN,zh_CN,NULL
+382,瓦拉纳,CN,zh_CN,NULL
+383,白银之手,CN,zh_CN,NULL
+384,白骨荒野,CN,zh_CN,NULL
+385,石爪峰,CN,zh_CN,NULL
+386,石锤,CN,zh_CN,NULL
+387,破碎岭,CN,zh_CN,NULL
+388,祖达克,CN,zh_CN,NULL
+389,索瑞森,CN,zh_CN,NULL
+390,红龙军团,CN,zh_CN,NULL
+391,罗宁,CN,zh_CN,NULL
+392,自由之风,CN,zh_CN,NULL
+393,艾维娜,CN,zh_CN,NULL
+394,范克里夫,CN,zh_CN,NULL
+395,萨洛拉丝,CN,zh_CN,NULL
+396,藏宝海湾,CN,zh_CN,NULL
+397,蜘蛛王国,CN,zh_CN,NULL
+398,血吼,CN,zh_CN,NULL
+399,血色十字军,CN,zh_CN,NULL
+400,贫瘠之地,CN,zh_CN,NULL
+401,踏梦者,CN,zh_CN,NULL
+402,辛达苟萨,CN,zh_CN,NULL
+403,达克萨隆,CN,zh_CN,NULL
+404,达尔坎,CN,zh_CN,NULL
+405,迅捷微风,CN,zh_CN,NULL
+406,远古海滩,CN,zh_CN,NULL
+407,迦拉克隆,CN,zh_CN,NULL
+408,迦玛兰,CN,zh_CN,NULL
+409,金色平原,CN,zh_CN,NULL
+410,阿拉索,CN,zh_CN,NULL
+411,雷斧堡垒,CN,zh_CN,NULL
+412,雷霆之王,CN,zh_CN,NULL
+413,雷霆号角,CN,zh_CN,NULL
+414,风暴峭壁,CN,zh_CN,NULL
+415,鬼雾峰,CN,zh_CN,NULL
+416,黑铁,CN,zh_CN,NULL
+421,世界之樹,TW,zh_TW,68073
+422,天空之牆,TW,zh_TW,65174
+425,冰風崗哨,TW,zh_TW,56321
+428,듀로탄,KR,ko_KR,78035
+431,아즈샤라,KR,ko_KR,485644
+432,데스윙,KR,ko_KR,105595
+433,세나리우스,KR,ko_KR,111215
