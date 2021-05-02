@@ -26,7 +26,7 @@ SELECT A.Item_ID, A.Realm_ID, A.Price as Price, avg(B.Price) as Average_Price
 FROM market as A
 CROSS JOIN market AS B 
 WHERE A.Item_ID = 2303 
-AND a.item_id=b.item_id
+AND A.item_id=B.item_id
 GROUP BY
     A.Item_ID,
     A.Price
