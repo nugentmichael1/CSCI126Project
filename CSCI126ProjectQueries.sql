@@ -5,21 +5,16 @@ CREATE TABLE market(Realm_ID int REFERENCES realms(Realm_ID), Item_ID int, Price
 CREATE TABLE realms(Realm_ID int PRIMARY KEY, Realm_Name varchar(255), Region char(2), Locale char(5), Population int);
 
 /*Example Queries*/
-/*Subquery - Compares Cost to Buy vs Cost to Create Items*/
-SELECT items.item_description as "Product", 
-    market.Price/10 as "Product Price",
-    sum(reagentPrice.price*recipe_reagents.quantity)/10 as "Reagents Sum Cost"
-    FROM items, 
-    recipes, 
-    recipe_reagents, 
-    market, 
-    market as reagentPrice
-    where recipes.Spell_ID=recipe_reagents.spell_id 
-    and recipes.item_id=items.Item_ID 
-    and market.Item_ID=recipes.item_id
-    and reagentPrice.item_id=recipe_reagents.Item_ID
-    and market.Realm_ID=2
-    GROUP BY recipes.item_id;
+/*Subquery - Returns prices of every item with "boots" in description*/
+SELECT ID, 
+    Description, 
+    Price
+    FROM (SELECT item_id as ID, item_description as Description 
+        FROM items 
+        WHERE items.Item_Description 
+        LIKE "%Boots%"), market
+    WHERE market.Item_ID=ID;
+
     
 /*Aggregate - Compares Cost of item for single realm vs average cost across all realms*/
 SELECT A.Item_ID, A.Realm_ID, A.Price as Price, avg(B.Price) as Average_Price
@@ -32,7 +27,6 @@ GROUP BY
     A.Price
 HAVING A.Price <= avg(B.Price)
 ORDER BY A.Realm_ID
-
 
 /*Insert - 2 insertion queries: first adds a new realm, and 2nd adds a new market list with that realm as
 an attribute*/
@@ -48,3 +42,19 @@ WHERE market.Quantity=1 and Realm_ID=434;
 SELECT market.Realm_ID, Item_ID, Price, Quantity
 FROM market
 WHERE market.Realm_ID=434;
+                                                                                                                 
+/*Application / Use Case - Compares Cost to Buy vs Cost to Create Items*/
+SELECT items.item_description as "Product", 
+    market.Price/10 as "Product Price",
+    sum(reagentPrice.price*recipe_reagents.quantity)/10 as "Reagents Sum Cost"
+    FROM items, 
+    recipes, 
+    recipe_reagents, 
+    market, 
+    market as reagentPrice
+    where recipes.Spell_ID=recipe_reagents.spell_id 
+    and recipes.item_id=items.Item_ID 
+    and market.Item_ID=recipes.item_id
+    and reagentPrice.item_id=recipe_reagents.Item_ID
+    and market.Realm_ID=2
+    GROUP BY recipes.item_id;
